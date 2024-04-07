@@ -1,6 +1,6 @@
 //write a program that allows you to keep
 //accessing an array until a valid index 
-//is givrn by the user
+//is given by the user
 import java.util.Scanner;
 public class try_qn 
 {
