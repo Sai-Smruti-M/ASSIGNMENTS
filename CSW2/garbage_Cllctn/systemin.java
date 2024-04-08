@@ -1,7 +1,7 @@
 package garbage_Cllctn;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.*;
+import java.util.Scanner;
 
 public class systemin 
 {
@@ -23,7 +23,7 @@ public class systemin
 	{
 		System.out.println("something went wrong");
 	}
-	}
+}
 	
 	
 	
