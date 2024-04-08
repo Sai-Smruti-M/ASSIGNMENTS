@@ -11,6 +11,8 @@ public class syntax_qn
 
         // Calculate the year of birth
         int yearOfBirth = currentYear - age;
+        //if the yob will be 2000-age=logical error
+
 
         System.out.println("Year of Birth: " + yearOfBirth);
     }
