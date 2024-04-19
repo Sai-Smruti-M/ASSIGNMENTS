@@ -21,7 +21,7 @@ class rectangle
 	}
 	public double area()
 	{
-		return (0.5*length*width);
+		return (length*width);
 	}
 	public double perimeter()
 	{
@@ -37,8 +37,8 @@ public class q2
 		rectangle r=new rectangle(4,5);
 		System.out.println("length"+r.getl());
 		System.out.println("width"+r.getw());
-       System.out.println("perimeter"+r.perimeter());
-       System.out.println("area"+r.area());
+                System.out.println("perimeter"+r.perimeter());
+                System.out.println("area"+r.area());
        
        
 	}
