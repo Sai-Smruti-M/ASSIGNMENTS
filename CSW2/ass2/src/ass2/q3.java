@@ -12,7 +12,7 @@ class CAR implements Comparable<CAR>
 	}
 	public int compareTo(CAR c)
 	{
-		if(this.equals(c))
+		if(this.speed==c.speed))
 		{
 			return 0;
 		}
